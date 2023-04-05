@@ -10,3 +10,4 @@ Chrome DevTools
 6. Утилитные функции chrome devtools: $_, $(‘selector‘, parentNode), $$(‘selector‘, parentNode), $0-4, getEventListeners(), monitorEvents(‘selector‘, ‘event‘) + unmonitorEvents(‘selector‘), monitor(func) + unmonitor(func), clear(), copy();
 7. Типы Breakpoints: line-of-code, conditional line-of-code, logpoint, DOM change, XHR/fetch, EventListener, Exception, Function;
 8. Как отлаживать по задеплоенному или оригинальному коду с помощью source maps. Как добавить проект в chrome workspace. Как отследить цепочку вызова функций, внести изменения в данные или код функции, перезапустить вызов функцию;
+9. Как посмотреть отправленные XHR запросы, отредактировать видимые или добавить новые столбцы, использовать поиск по хедерам, фильтрацию, сортировку, настроить user-agent, скопировать данные из запроса;
