@@ -1,1 +1,12 @@
-Hello
+Заметки:
+
+Chrome DevTools
+
+1. Шорткаты: для открытия/закрытия devtools в разных вкладках, для перемещения по вкладкам и по элементам в DOM, для перестановки элементов DOM, для переключения типа девайса, для изменения положения окна devtools;
+2 .Как установить троттлинг скорости интернета и скорости процессора эмлируемого девайса;
+3. Как добавить свойство элементу или css-классу, как добавить класс или псевдосостояние (типа hover);
+4. Как понять, что свойство невалидно или не применено по некой причине. Как различить собственные и наследуемые от родителя свойства. Что полезного есть во вкладке elements/computed;
+5. Методы console: log/info/debug, table, assert, warn, error, group + groupEnd, count + countReset, time + timeEnd, trace. Переменные в методах console. Как стилизовать вывод в консоли;
+6. Утилитные функции chrome devtools: $_, $(‘selector‘, parentNode), $$(‘selector‘, parentNode), $0-4, getEventListeners(), monitorEvents(‘selector‘, ‘event‘) + unmonitorEvents(‘selector‘), monitor(func) + unmonitor(func), clear(), copy();
+7. Типы Breakpoints: line-of-code, conditional line-of-code, logpoint, DOM change, XHR/fetch, EventListener, Exception, Function;
+8. Как отлаживать по задеплоенному или оригинальному коду с помощью source maps. Как добавить проект в chrome workspace. Как отследить цепочку вызова функций, внести изменения в данные или код функции, перезапустить вызов функцию;
