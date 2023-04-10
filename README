@@ -52,3 +52,7 @@ clear(), copy();
 Как понимать кладку фреймов (white/green/yellow/red frames)?
 
 11. Что такое Performance Insights и Lighthouse, как их использовать?
+
+12. Работа с анимациями во вкладке Animations: как изучить и модифицировать готовую анимацию?
+
+13. Что находится во вкладках Changes, CSS overview, Issues, Media?
